@@ -29,7 +29,8 @@ The frontend is built with React + Tailwind CSS, and the backend is fully develo
 🌐 RESTful API (Node.js backend)
 
 ## 🛠️ Tech Stack
-* Frontend
+
+### Frontend
 
 - React 19
 
