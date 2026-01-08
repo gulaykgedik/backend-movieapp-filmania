@@ -7,17 +7,18 @@ The frontend is built with React + Tailwind CSS, and the backend is fully develo
 ## 📸 Screenshots
 ![movieapp-filmania](https://github.com/user-attachments/assets/c190fc1c-75fc-43c1-8156-99ef2854c234)
 
+
 🚀 Features
 
 🎥 Create and delete movies (CRUD)
 
 🔍 Advanced search & filtering
 
-By movie title
+* By movie title
 
-By actor
+* By actor
 
-By genre
+* By genre
 
 ⚡ Efficient data handling with React Query
 
@@ -27,33 +28,32 @@ By genre
 
 🌐 RESTful API (Node.js backend)
 
-🛠️ Tech Stack
-Frontend
+## 🛠️ Tech Stack
+* Frontend
 
-React 19
+- React 19
 
-React Router DOM
+- React Router DOM
 
-Tailwind CSS
+- Tailwind CSS
 
-@tanstack/react-query
+- @tanstack/react-query
 
-Axios
+- Axios
 
-React Toastify
+- React Toastify
 
-Lucide Icons & React Icons
+- Lucide Icons & React Icons
 
-Vite
+- Vite
 
-Backend
 
-Node.js
+* Backend
 
-Express.js
+- Node.js
 
-REST API architecture
+- Express.js
 
-## 📸 Screenshots
-![movieapp-filmania](https://github.com/user-attachments/assets/c190fc1c-75fc-43c1-8156-99ef2854c234)
+- REST API architecture
+
 
