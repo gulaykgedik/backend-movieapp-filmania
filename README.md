@@ -53,8 +53,5 @@ The frontend is built with React + Tailwind CSS, and the backend is fully develo
 
 - Node.js
 
-- Express.js
-
-- REST API architecture
 
 
